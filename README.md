@@ -1,7 +1,8 @@
 # Tabletop Simulator — Asset Downloader GUI
 
-**Créditos**  
-@sho-hinakawa (idea y desarrollo actual) @IronArthur (apoyo con conversion de BSON a JSON)  
+### Créditos
+* [@sho-hinakawa](https://github.com/sho-hinakawa) — Idea y desarrollo actual.
+* [@IronArthur](https://github.com/IronArtur) — Apoyo con idea de conversión de BSON a JSON.
 
 
 Herramienta gráfica (Python + Tkinter) para **descargar assets** de una partida o módulo de Tabletop Simulator:
